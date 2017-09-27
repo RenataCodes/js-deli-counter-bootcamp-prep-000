@@ -9,3 +9,11 @@ function takeANumber(katzDeliLine, name) {
     console.log(`Welcome, ${name}. You are number ${position} in line.`)
   }
 }
+
+function nowServing(katzDeliLine){
+  if (katzDeliLine.length == 0) {
+    console log("There is nobody waiting to be served!");
+  } else {
+  console.log(katzDeliLine.pop();
+
+}}
